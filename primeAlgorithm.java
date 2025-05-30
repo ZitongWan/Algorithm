@@ -1,5 +1,3 @@
-package Algorithm;
-
 import java.util.Arrays;
 
 public class primeAlgorithm {  // 适用于大型稠密图

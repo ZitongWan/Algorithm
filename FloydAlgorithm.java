@@ -1,5 +1,3 @@
-package Algorithm;
-
 import java.util.Arrays;
 
 public class FloydAlgorithm {  // 弗洛伊德算法和迪杰斯特拉算法类似,但求的是各个点到另外所有点的最小距离,这个求的是所有,迪杰斯特拉求的是单个点

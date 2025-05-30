@@ -1,5 +1,3 @@
-package Algorithm;
-
 public class KMP {
     public static void main(String[] args) {
         String target = "BBC ABCDAB ABCDABCDABDE";

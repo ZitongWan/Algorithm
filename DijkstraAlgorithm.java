@@ -1,5 +1,3 @@
-package Algorithm;
-
 import java.util.Arrays;
 
 public class DijkstraAlgorithm {  // 计算一个图中单个顶点到其他各个顶点的最短距离

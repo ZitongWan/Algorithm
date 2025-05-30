@@ -1,5 +1,3 @@
-package Algorithm;
-
 import java.util.Arrays;
 
 public class KruskalCaseAlgorithm {  // 适用于稀疏图
